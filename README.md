@@ -2,7 +2,7 @@
 
 This is one of the React projects of Udemy Course: Complete React Developer in 2020 with Redux, Hooks, GraphQL.
 
-The images of monsters: https://robohash.org
+https://monsters-rolodex-gt4v.onrender.com/
 
 ## Note
 
